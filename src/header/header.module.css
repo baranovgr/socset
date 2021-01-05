@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Kurale&family=Roboto:wght@700&display=swap');
+
+.header {
+    width: 100%;
+    height: 7%;
+    background-color: #ffffff;
+    box-shadow: 4px 4px 8px 0px rgba(34, 60, 80, 0.2);
+}
+
+.header_inner {
+    margin: 0 16% 0 16%;
+    height: 100%;
+    /*background-color: aqua;*/
+}
+
+.label {
+    margin-left: 5px;
+    display: flex;
+    align-items: center;
+    width: 200px;
+}
+.img {
+    width: 50px;
+    height: 50px;
+}
+
+.logo {
+    margin-left: 3px;
+    color: #292929;
+    font-size: 30px;
+    font-family: 'Roboto', sans-serif;
+}
+
+
